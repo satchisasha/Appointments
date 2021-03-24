@@ -1,0 +1,7 @@
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\bin\Debug\ConsoleAppointmentApp.exe.config
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\bin\Debug\ConsoleAppointmentApp.exe
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\bin\Debug\ConsoleAppointmentApp.pdb
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\obj\Debug\ConsoleAppointmentApp.csprojAssemblyReference.cache
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\obj\Debug\ConsoleAppointmentApp.csproj.CoreCompileInputs.cache
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\obj\Debug\ConsoleAppointmentApp.exe
+D:\Проекты\MS VS C#\Appointments\ConsoleAppointmentApp\obj\Debug\ConsoleAppointmentApp.pdb

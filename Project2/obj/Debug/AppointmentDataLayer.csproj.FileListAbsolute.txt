@@ -1,0 +1,12 @@
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\AppointmentDataLayer.csprojAssemblyReference.cache
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\AppointmentDataLayer.csproj.CoreCompileInputs.cache
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\Project2.exe.config
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\Project2.exe
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\Project2.pdb
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\EntityFramework.dll
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\EntityFramework.xml
+D:\Проекты\MS VS C#\Appointments\Project2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\AppointmentDataLayer.csproj.CopyComplete
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\Project2.exe
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\Project2.pdb

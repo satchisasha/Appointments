@@ -1,0 +1,2 @@
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Проекты\MS VS C#\Appointments\Project2\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
